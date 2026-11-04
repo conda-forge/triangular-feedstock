@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.0"
+  version: "0.3.0"
   abi3_python: '3.12'
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/triangular/triangular-${{ version }}.tar.gz
-  sha256: 1c80c814b04b13fd89c0d25eefa3852f902e0b2cf26731e30b06c21a9de3edd0
+  sha256: 771278ffd7737db314ccc9a63903a20ab7aa293ff9def6507332092f4b188eeb
 
 build:
   number: 0
